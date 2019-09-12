@@ -1,3 +1,3 @@
 # LinuxExamples
 
-This repository is for usefull Linux Commands and Applications.
+This repository is for useful Linux Commands and Applications.
